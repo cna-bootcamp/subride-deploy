@@ -3,8 +3,6 @@
 
 ![main](subride.png)
 
-[데모 동영상 보기](https://drive.google.com/file/d/1G3Ukw2OrVqbncuypUyWoBhe6s2j2hpCW/view?usp=sharing)
-
 ## 배포 가이드 클론
 Docker, Docker Compose, Kubectl이 설치된 작업 머신에 배포 가이드를 클론합니다.  
 이 작업 머신은 k8s cluster에 애플리케이션을 배포할 수 있도록 환경이 구성되어 있어야 합니다.  
